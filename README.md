@@ -11,7 +11,7 @@ This Python script allows you to play a number guessing game. The script generat
 3. Open a terminal (command prompt on Windows) and navigate to the folder where you downloaded the `main.py` file.
 
 4. Run the script by typing the following command and pressing Enter:
-  `python main.py`
+  `python main.py` or `py main.py`
 
 5. The script will prompt you to enter a number between 1 and 10. Type your guess and press Enter.
 
